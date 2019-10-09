@@ -13,3 +13,5 @@ elif na <= 70 and na > 60:
     print('D')
 else:
     print('E')
+
+# Guess the output and explain the algorithm !
