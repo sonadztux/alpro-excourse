@@ -22,5 +22,5 @@ Pembahasan:
     dari nilai perulangan isi, maksud end='' adalah agar output
     menjadi satu baris / menghilangkan enter
 #   Print kedua untuk menambahkan enter ketika 
-    perulangan isi di baris setiap baris telah selesai 
+    perulangan isi di setiap baris telah selesai 
 """
