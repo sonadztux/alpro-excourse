@@ -1,1 +1,9 @@
-Perbedaan for dan while
+Jelaskan perbedaan fungsi perulangan for dan while!
+
+-   Fungsi for digunakan untuk membuat suatu
+    proses perulangan yang telah diketahui
+    jumlah perulangannya
+-   Fungsi while digunakan untuk membuat suatu
+    proses perulangan yang belum diketahui jumlah
+    perulangannya dan dilakukan pengecekan kondisi
+    terlebih dahulu
